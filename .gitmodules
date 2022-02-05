@@ -1,0 +1,3 @@
+[submodule "uCShell"]
+	path = uCShell
+	url = https://github.com/EdwinFairchild/uCShell
