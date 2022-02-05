@@ -13,6 +13,8 @@
 #include "task.h"
 #include "timers.h"
 #include "semphr.h"
-
+#include "stdarg.h"
+#include "uCShell.h"
 void main_app_init(void);
+void USART2_callback(void);
 #endif /* MAIN_APP_H_ */
